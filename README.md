@@ -35,7 +35,7 @@
                
   ### Methodology 
      
-              ![](image/workflow.jpg)
+  ![](image/workflow.jpg)
 
 
 
