@@ -35,7 +35,7 @@
                
   ### Methodology 
      
-         ![image](https://user-images.githubusercontent.com/83824396/147400470-f785eed5-6391-4ee4-8d31-fb3020a15458.png)
+         https://github.com/CHINTAN-2610/M.Tech-Thesis-Facies-Identification/issues/1#issue-1088707101
 
 
                        
