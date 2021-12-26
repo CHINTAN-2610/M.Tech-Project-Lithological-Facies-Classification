@@ -35,7 +35,7 @@
                
   ### Methodology 
      
-        ![workflow](https://user-images.githubusercontent.com/83824396/147400571-cc70b678-71ff-4975-835f-7a21ec957b4e.jpg)
+              ![](image/workflow.jpeg)
 
 
 
